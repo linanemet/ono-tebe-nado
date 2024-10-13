@@ -22,7 +22,7 @@
     text-underline-offset: 5px;
 }
 
-.header__link_active a {
+.header__link_active {
     text-decoration: none;
 }
 
@@ -45,7 +45,6 @@
     line-height: 25px;
     text-underline-offset: 5px;
 }
-
 
 .cover {
     min-height: 757px;
@@ -129,9 +128,6 @@
     padding: 12px 32px;
     margin-right: 50px;
 }
-
-
-
 
 .lots {
     padding-top: 179px;
@@ -219,9 +215,6 @@
     text-underline-offset: 5px;
 }
 
-
-
-
 .about {
     margin: 146px 24px 180px;
     padding-top: 35px;
@@ -274,7 +267,6 @@
     margin-bottom: 24px;
 }
 
-
 .footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -313,9 +305,6 @@
     align-items: center;
     gap: 48px;
 }
-
-
-
 
 .footer__social-icon {
     width: 48px;
